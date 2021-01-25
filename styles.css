@@ -1,0 +1,16 @@
+.first{
+    text-align: center;
+    color: blue;
+}
+.second{
+    display: table;
+    margin: auto;
+    color: rgb(72, 101, 102);
+}
+.button{
+    margin: 0px;
+    padding-right: 10px;
+}
+.fas{
+    padding-left: 30px;
+}
